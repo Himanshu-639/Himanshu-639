@@ -1,4 +1,3 @@
-[![MasterHead]([https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966](https://rishavchanda.io/))
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Computer Science💻 student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-639&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-639" /> </p>
